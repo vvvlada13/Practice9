@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practice9</string>
+    <string name="lab_work_9">Лабораторная работа № 9</string>
+    <string name="poem_title">Листопад И.А. Бунин</string>
+    <string name="poem_text">Лес, точно терем расписной,\nЛиловый, золотой, багряный,\nВеселой, пестрою стеной\nСтоит над светлою поляной.</string>
+
+</resources>
